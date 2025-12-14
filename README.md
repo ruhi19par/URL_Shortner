@@ -1,4 +1,6 @@
 # URL_Shortner
+🚀 Backend REST API built using Node.js, Express & PostgreSQL
+
 # 📎 Project Requirements – URL Shortener API
 
 A backend REST API that allows users to shorten long URLs, manage their URLs, and handle authentication securely.
